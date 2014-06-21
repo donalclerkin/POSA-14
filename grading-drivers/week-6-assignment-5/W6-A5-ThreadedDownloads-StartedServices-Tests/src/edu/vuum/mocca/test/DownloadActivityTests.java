@@ -5,7 +5,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.test.ActivityInstrumentationTestCase2;
 import android.widget.EditText;
-import android.view.WindowManager;
 
 import com.robotium.solo.Solo;
 
